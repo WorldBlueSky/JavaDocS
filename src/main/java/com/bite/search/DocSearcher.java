@@ -1,8 +1,8 @@
 package com.bite.search;
 
-import com.bite.build.DocInfo;
-import com.bite.build.Index;
-import com.bite.build.Weight;
+import com.bite.index.DocInfo;
+import com.bite.index.Index;
+import com.bite.index.Weight;
 import com.bite.config.FileConfig;
 import org.ansj.domain.Term;
 import org.ansj.splitWord.analysis.ToAnalysis;
